@@ -31,7 +31,7 @@ Whether you're:
 
 ## 📱 Download the App
 
-> [![Download on the App Store](Media/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/app/vediq-flashcards-quiz-app/id6748696401)
+> [![Download on the App Store](media/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/app/vediq-flashcards-quiz-app/id6748696401)
 
 ---
 
@@ -44,10 +44,10 @@ Whether you're:
 ## 🖼️ Screenshots
 
 <div style="display: flex; gap: 30px;">
-  <img src="Media/promo.jpeg" width="200">
-  <img src="Media/home.jpeg" alt="Home Screen" width="200">
-  <img src="Media/Flashcards.jpeg" alt="Upload Screen" width="200">
-  <img src="Media/Quiz.jpeg" alt="Home Screen" width="200">
+  <img src="media/promo.jpeg" width="200">
+  <img src="media/home.jpeg" alt="Home Screen" width="200">
+  <img src="media/Flashcards.jpeg" alt="Upload Screen" width="200">
+  <img src="media/Quiz.jpeg" alt="Home Screen" width="200">
   
 </div>
 
