@@ -43,12 +43,13 @@ Whether you're:
 
 ## 🖼️ App Preview
 
-<p>
-  <img src="media/vediq-promo.gif" height="435" alt="VedIQ App Promo" />
-  <img src="media/home.jpeg" width="200" alt="Home Screen" />
-  <img src="media/Flashcards.jpeg" width="200" alt="Flashcards Screen" />
-  <img src="media/Quiz.jpeg" width="200" alt="Quiz Screen" />
-</p>
+<div style="display: flex; gap: 30px;">
+  <img src="media/promo.jpeg" width="200">
+  <img src="media/home.jpeg" alt="Home Screen" width="200">
+  <img src="media/Flashcards.jpeg" alt="Upload Screen" width="200">
+  <img src="media/Quiz.jpeg" alt="Home Screen" width="200">
+  
+</div>
 
 ---
 
