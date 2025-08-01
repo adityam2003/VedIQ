@@ -45,9 +45,9 @@ Whether you're:
 
 <p>
   <img src="media/vediq-promo.gif" height="435" alt="VedIQ App Promo" />
-  <img src="media/home.jpeg" height="435" alt="Home Screen" />
-  <img src="media/Flashcards.jpeg" height="435" alt="Flashcards Screen" />
-  <img src="media/Quiz.jpeg" height="435" alt="Quiz Screen" />
+  <img src="media/home.jpeg" width="200" alt="Home Screen" />
+  <img src="media/Flashcards.jpeg" width="200" alt="Flashcards Screen" />
+  <img src="media/Quiz.jpeg" width="200" alt="Quiz Screen" />
 </p>
 
 ---
